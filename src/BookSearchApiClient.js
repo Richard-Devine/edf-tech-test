@@ -51,5 +51,4 @@ BookSearchApiClient.prototype.getBooksByAuthor = function (authorName, limit) {
   xhr.send();
 };
 
-
 module.exports = GetBookListApiClient;
